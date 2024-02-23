@@ -37,6 +37,6 @@
 .boton{
     color: black;
     background-color: goldenrod;
-    padding: 2px;
+    padding: 4px 6px;
     border: dashed 1px gold;
 }

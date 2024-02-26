@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 96px;
+    height: 64px;
+    background-color: #24252A;
+}
+
+header .logo{
+    color: white;
+}
+
+header a{
+    color: #D0D3E0;
+    padding: 16px;
+    text-decoration: none;
+}
+
+header .contacto{
+    padding: 8px 20px;
+    border-radius: 50px;
+    background-color: #0487A7;
+    color: white;
+    border: 0px;
+}
